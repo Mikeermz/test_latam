@@ -32,7 +32,7 @@ pp Sale.sin_repetecion("India")
 pp Sale.sin_repetecion("Finland")
 pp Sale.sin_repetecion("Otro")
 
-Sale.sumatoria2("Product1","India")
+
 
 
 =begin 
